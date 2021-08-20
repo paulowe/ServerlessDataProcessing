@@ -2,7 +2,7 @@
 
 ### Features
 
-This solution implementS monitoring, logging and configuring alerting policies that get triggered when 
+This solution implements monitoring, logging and configuring alerting policies that get triggered when 
 - Failure starting your piplein on Dataflow
 - Invalid BigQuery table
 - Too much logging
