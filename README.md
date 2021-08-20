@@ -8,7 +8,7 @@ This solution implementS monitoring, logging and configuring alerting policies t
 - Invalid BigQuery table
 - Too much logging
 
-### Quick start
+### Setup your environment
 
 Create a virtual environment 
 ```
