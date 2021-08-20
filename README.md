@@ -1,8 +1,12 @@
 # ServerlessDataProcessing
 Serverless Data Processing with Apache Beam and Dataflow backend
 
-Features of this solution:
-- Alerting Policies that get triggered when X is met
+### Features
+
+This solution implementS monitoring, logging and configuring alerting policies that get triggered when 
+- Failure starting your piplein on Dataflow
+- Invalid BigQuery table
+- Too much logging
 
 ### Quick start
 
