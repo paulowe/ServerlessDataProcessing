@@ -10,6 +10,8 @@ class ReadGBK(beam.DoFn):
  def process(self, e):
    k, elems = e
    for v in elems:
+    # Paul: Line 14 will cause excessive logging. This message will be raised as a job insight with a public doc link showing what the issue is
+    # Remove for prod
      logging.info(f"the element is {v}")
      yield v
 
