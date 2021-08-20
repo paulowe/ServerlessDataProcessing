@@ -1,6 +1,9 @@
 # ServerlessDataProcessing
 Serverless Data Processing with Apache Beam and Dataflow backend
 
+Features of this solution:
+- Alerting Policies that get triggered when X is met
+
 ### Quick start
 
 Create a virtual environment 
