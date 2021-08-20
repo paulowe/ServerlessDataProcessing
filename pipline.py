@@ -25,7 +25,7 @@ def run(argv=None):
                    block_hash,
                    block_number
                  FROM
-                   `bugquery-public-data.crypto_bitcoin.transactions`
+                   `bigquery-public-data.crypto_bitcoin.transactions`
                  WHERE
                    version = 1
                  LIMIT
